@@ -24,3 +24,5 @@ debug_color = Color(0.0352941, 0.65098, 0, 0.419608)
 [node name="CollisionShape2D" type="CollisionShape2D" parent="HitBox"]
 shape = SubResource("RectangleShape2D_crbdc")
 debug_color = Color(0.894118, 0.321569, 0, 0.419608)
+
+[node name="Camera2D" type="Camera2D" parent="."]
