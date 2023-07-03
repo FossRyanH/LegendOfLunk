@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://0nnqu0636dfs"
-path="res://.godot/imported/Tileset_32x32_13.png-e030e444471ab1b7c71f0facd26fb025.ctex"
+uid="uid://dyqx43njrwpo8"
+path="res://.godot/imported/Colored_ceilings_32x32.png-35d360c4f6b305c11e16b3e1ab1db253.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Interior/Old_Stuff/Tileset_32x32_13.png"
-dest_files=["res://.godot/imported/Tileset_32x32_13.png-e030e444471ab1b7c71f0facd26fb025.ctex"]
+source_file="res://GameArt/Interior/Old_Stuff/Colored_ceilings_32x32.png"
+dest_files=["res://.godot/imported/Colored_ceilings_32x32.png-35d360c4f6b305c11e16b3e1ab1db253.ctex"]
 
 [params]
 

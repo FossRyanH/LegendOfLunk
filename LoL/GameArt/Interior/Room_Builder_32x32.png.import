@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cr8x0i3an5lya"
-path="res://.godot/imported/Tileset_32x32_17.png-9a4ff7953052333dcc3f0af1375faccb.ctex"
+uid="uid://d22ht3cyqeyil"
+path="res://.godot/imported/Room_Builder_32x32.png-4ef6985aa61add0dd90a7a7db5801069.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Interior/Old_Stuff/Tileset_32x32_17.png"
-dest_files=["res://.godot/imported/Tileset_32x32_17.png-9a4ff7953052333dcc3f0af1375faccb.ctex"]
+source_file="res://GameArt/Interior/Room_Builder_32x32.png"
+dest_files=["res://.godot/imported/Room_Builder_32x32.png-4ef6985aa61add0dd90a7a7db5801069.ctex"]
 
 [params]
 
