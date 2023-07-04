@@ -387,3 +387,4 @@ sources/0 = SubResource("TileSetAtlasSource_qcod4")
 [node name="Exterior" type="TileMap"]
 tile_set = SubResource("TileSet_3p1cg")
 format = 2
+layer_0/y_sort_enabled = true
